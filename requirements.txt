@@ -1,0 +1,8 @@
+streamlit==1.11.0
+sounddevice==0.4.2
+numpy==1.21.0
+transformers==4.11.2
+whisper==< 1.1.10>
+
+# you need to install Ffmpeg in your system.
+ffmpeg version 6.0
